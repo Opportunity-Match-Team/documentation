@@ -31,13 +31,13 @@
         * Profile import from existing database (shiyao)
 * UI
     * Version 1
-        * Profile editing page (Chen) (shiyao)
-        * Search page (Chen) (shiyao)
-        * Matches page (Chen) (shiyao)
-        * Profile page (Chen) (shiyao)
+        * Profile editing page (Chen)
+        * Search page (Chen)
+        * Matches page (Chen)
+        * Profile page (Chen)
     * Version 2
         * User feedback, discussion page (Chen) (shiyao)
-        Version 3
+    * Version 3
         * Analytics and visualisation (for operation staffs) (shiyao)
         * Navigable similarity maps of profiles (for users)
         * Mobile app (shiyao)
@@ -57,4 +57,4 @@
         * Interoperation with Salesforce
 * Flow
     * Version 2
-        * Deployment-ready package for cloud 
+        * Deployment-ready package for cloud (shiyao)
