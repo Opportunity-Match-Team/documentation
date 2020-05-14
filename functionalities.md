@@ -1,5 +1,7 @@
 # Functionalities
 
+We also need to implement GDPR friendly approaches - users can delete their data anytime from all places.
+
 ## Versions
 * version 1  
     * Database with opportunity, expert, match, resource entities
